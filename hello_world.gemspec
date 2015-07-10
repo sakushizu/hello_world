@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = HelloWorld::VERSION
   s.authors     = ["櫻本静香"]
   s.email       = ["shizuka.sakuramoto.0916@gmail.com"]
-  s.homepage    = "TODO"
+  s.homepage    = "https://github.com/sakushizu/hello_world"
   s.summary     = "TODO: Summary of HelloWorld."
   s.description = "TODO: Description of HelloWorld."
   s.license     = "MIT"
